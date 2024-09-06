@@ -1,4 +1,4 @@
-module gotcha
+module "github.com/behzadam/gotcha"
 
 go 1.22.5
 
